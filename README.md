@@ -1,2 +1,2 @@
 # admin
-this is my first demo
+学习笔记
