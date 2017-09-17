@@ -29,10 +29,10 @@
 # HTML和XML的区别
 
 |     |HTML| XML|
-| --- | :------:| :------:|
+| --- |:------|:------|
 |  名称   |   <font color="red" size="4">H</font>yper<font color="red" size="4">T</font>ext <font color="red" size="4">M</font>arkup <font color="red" size="4">L</font>anguae 超文本标记语言      |    e<font color="red" size="4">X</font>tend <font color="red" size="4">M</font>arkup <font color="red" size="4">L</font>anguge可扩展标签语言     |
 |  标签   |    标签是w3c组成指定，固定的，约100来个     |   标签由开发者自己制定的(要按照一定的语法定义)      |
-|  作用   |   负责网页的结构      |   1.描述带关系的数据（作为软件的配置文件）: 包含与被包含的关系<br/>&emsp;例如：properties文件：[key]-[value]<br/>&emsp;场景：tomcat struts Hibernate spring (三大框架) 2.作为数据的载体(存储数据，小型的“数据库”)  |
+|  作用   |   负责网页的结构      |   1.描述带关系的数据（作为软件的配置文件）: 包含与被包含的关系<br/>&emsp;例如：properties文件：[key]-[value]<br/>&emsp;场景：tomcat struts Hibernate spring (三大框架)<br/>2.作为数据的载体(存储数据，小型的“数据库”)  |
 
 
 
